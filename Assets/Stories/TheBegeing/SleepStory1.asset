@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9fd352b38dcb49a99bac79e26728622, type: 3}
+  m_Name: SleepStory1
+  m_EditorClassIdentifier: 
+  storyText: 'You have Choosen to sleep on the street for the night, You find an enpmty
+    park bench and sit there till you fall alsleep.
+
+
+    you loose health
+
+    you loose food
+
+
+    What do you do next?
+
+
+    1. Beg someone for money
+
+    2. Sleep on the street
+
+    3. Eat out the trash'
+  nextStories: []
